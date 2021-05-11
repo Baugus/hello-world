@@ -5,3 +5,7 @@ This guide asked me to write a little bit about me in the readme file. I am lear
 it is the tool I need to solve my coding issues both with application creation and with economic
 research. Additionally, I want to learn git and github so that I can interact with research projects
 and code repositories created by others. 
+
+Topics for further study:
+
+Fork & Pull vs. Shared Repository
